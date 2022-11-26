@@ -1,0 +1,11 @@
+# requirments.txt
+
+Flask
+gunicorn
+numpy
+matplotlib
+pandas
+pandas_datareader
+datetime
+tensorflow
+keras
