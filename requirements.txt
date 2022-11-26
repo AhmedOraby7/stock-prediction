@@ -10,4 +10,4 @@ datetime
 tensorflow
 keras
 sklearn
-scikitlearn
+scikit-learn
