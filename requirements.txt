@@ -9,3 +9,5 @@ pandas_datareader
 datetime
 tensorflow
 keras
+sklearn
+scikitlearn
